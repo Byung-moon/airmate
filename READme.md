@@ -1,6 +1,6 @@
 **본 프로젝트는 종합설계프로젝트 과목을 통해 YDMM이라는 팀 이름으로 [장희덕](https://github.com/Heedeok), 고상민, 이하영, 변병문 4인으로 구성되어 진행되었습니다.**
 
-**본 Repository는 YDMM 프로젝트 진행시 사용되었던 [장희덕](https://github.com/Heedeok)의  [변병문](https://github.com/Byung-moon)이 수정 및 내용 추가 하였습니다**
+**본 Repository는 YDMM 프로젝트 진행시 사용되었던 최초작성자 [장희덕](https://github.com/Heedeok)의 Repo를 [변병문](https://github.com/Byung-moon)이 수정 및 내용 추가 하였습니다**
 
 　
  　
