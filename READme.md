@@ -42,6 +42,7 @@
 - ubuntu : 18.04
 - ROS : melodic
 - python : 2.7
+- Android 6.0(API Level 23)
 
 ## Install
 #### install ros(melodeic)
