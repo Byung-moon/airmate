@@ -15,10 +15,10 @@
 
 
 ## 제품 모습
-> 제품 외형1
+> 제품 외형
 ![airmate_navigation](readme_images/airmate.png "airmate")
 
-> 제품 외형2
+> 제품 주행 테스트 시나리오 환경
 ![airmate_navigation](readme_images/airmate2.png "airmate")
 
 
