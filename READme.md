@@ -22,13 +22,13 @@
 ![airmate_navigation](readme_images/airmate2.png "airmate")
 
 > ROS 시스템을 이용한 HW와 SW의 통신
-![ROS system](readme_images/ROS_system.PNG)
+![ROS system](readme_images/ROS_system.png)
 
 > HW 구성
-![HW_Config](readme_images/HW_Config.PNG)
+![HW_Config](readme_images/HW_config.png)
 
 > 최종 설계 디자인
-![Final Design](readme_images/Final_Design.PNG)
+![Final Design](readme_images/Final_Design.png)
 
 
 ## Environment
