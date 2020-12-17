@@ -21,6 +21,15 @@
 > 제품 주행 테스트 시나리오 환경
 ![airmate_navigation](readme_images/airmate2.png "airmate")
 
+> ROS 시스템을 이용한 HW와 SW의 통신
+![ROS system](readme_images/ROS_system.PNG)
+
+> HW 구성
+![HW_Config](readme_images/HW_Config.PNG)
+
+> 최종 설계 디자인
+![Final Design](readme_images/Final_Design.PNG)
+
 
 ## Environment
 - ubuntu : 18.04
