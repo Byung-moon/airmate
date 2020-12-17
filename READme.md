@@ -9,9 +9,16 @@
 # airmate(for melodic)
 
 ## Purpose
- 기존의 공기청정기는 하나의 방에 하나씩 배치하는 방식이었기 때문에 공간이 넓어질수록 더많은 청정기 구매를 필요로 한다. 우리는 하나의 공기청정기가 여러 구역을 목표 지점으로 삼아 스스로 순회하면서 청정을 수행할 수 있는 자율주행 공기청정기 'airmate'를 구상하였다. airmate는 ROS기반의 시스템을 사용하여 로봇에 부착된 센서들을 효율적으로 통신, 제어 할 수 있다. 또한 사용자는 airmate_app을 통해 로봇이 바라보는 화면과 실내공간에 대한 로봇의 위치를 시각화 할 수 있고, 로봇의 동작에 대한 제어 명령을 내릴 수 있다. airamte paackage는 'dust_densitiy' topic에 대한 publish와 subscribe에 대한 동작을 수행할 수 있고, airmate_nvigation package는 사용자가 입력한 위치에 대한 순차 순회를 가능하게 해준다.
+ 기존의 고정적인 공기청정기와는 달리 자율주행을 통한 실내 모든 공간을 정화함으로써, 보다 적은 비용으로 더 많은 지역을 공기청정할 수 있는 제품을 개발하고자 함.
+ 
+ ![summary](readme_images/summary.PNG)
 
+
+## 제품 모습
+> 제품 외형1
 ![airmate_navigation](readme_images/airmate.png "airmate")
+
+> 제품 외형2
 ![airmate_navigation](readme_images/airmate2.png "airmate")
 
 
