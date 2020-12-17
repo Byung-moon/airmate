@@ -44,6 +44,13 @@
 - python : 2.7
 - Android 6.0(API Level 23)
 
+## Used Library for Autonomous Driving
+- [cartographer](https://github.com/Byung-moon/cartographer) 
+  : Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
+
+- [follow_waypoints](https://github.com/Byung-moon/follow_waypoints)
+  : A package that will buffer move_base goals until instructed to navigate to all waypoints in sequence.
+
 ## Install
 #### install ros(melodeic)
 ```
